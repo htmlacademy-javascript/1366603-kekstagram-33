@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Mari Li](https://up.htmlacademy.ru/javascript/33/user/1366603).
-* Наставник: `Неизвестно`.
+* Наставник: [Виктория Никитина](https://htmlacademy.ru/profile/id1217273).
 
 ---
 
